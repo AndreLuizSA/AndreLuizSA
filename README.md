@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreLuizSA :brazil:
-- 👀 I’m interested in web development and cyber security.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning the beginners holy trinity of coding (HTML,CSS and javascript); CMD and linux terminal.
 - :computer: I have previous knowledge of photoshop and illustrator.
 - :wave: Looking for studying colleagues
